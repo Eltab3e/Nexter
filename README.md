@@ -1,5 +1,5 @@
-<h1 align="center">Welcome 👋 This project is called Nexter.</h1>
-<h3 align="center">World's best luxury homes real-estate website.</h3>
+<h1 align="center">Hi there 👋 This project is called Nexter.</h1>
+<h3 align="center">Website for World's most luxurious properties.</h3>
 
 <h3 align="left">Screenshots:</h3>
 <img src="https://drive.google.com/uc?id=1WN_0v2U1DbuSTmbTsel19254CD_me_BB" alt="image1" width="900">
